@@ -1,0 +1,6 @@
+{
+  "name": "SubTrack — Subscription & SaaS Spend Tracker",
+  "description": "Lacak semua langganan aktif, total pengeluaran bulanan/tahunan, reminder H-7 auto-renewal, dan optimasi pengeluaran digital.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "SubTrack — Subscription & SaaS Spend Tracker",
+  "short_name": "SubTrack",
+  "description": "Lacak semua langganan aktif, total pengeluaran bulanan/tahunan, reminder H-7 auto-renewal.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
